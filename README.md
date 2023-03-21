@@ -1,2 +1,4 @@
 # Predicting-the-online-views-of-products-ML-Regression-
 This example demonstrates the prediction of the detail views of cars on a website from the information contained in the other columns of the data 'Items_Cars_Data.csv'. The file 'Data_description.csv' describes the columns.
+The entire chain of model development: data loading, derivation of new features, exploratory data analysis, preparation of data for training, model building, cross-validation, hyperparameter tuning, learning curves analysis, evaluation on the hold-out set (test data set), and feature importance analysis was covered. The algorithms include Linear Regression, Support Vector Regression (SVR), Artificial Neural Network of Multi-layer Perceptron (MLP) and eXtreme Gradient Boosting (XGBoost).
+Transforming skewed data with log transformation efficiently improved the accuracy of the model predictions.
